@@ -1,3 +1,10 @@
+Version 1.2
+-------------
+*Better movement
+*Animations
+*Changed some levels
+
+
 Version 1.1
 -------------
 *Found source code!
